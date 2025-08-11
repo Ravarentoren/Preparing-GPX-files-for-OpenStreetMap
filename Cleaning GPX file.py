@@ -1,4 +1,4 @@
-# Názvy souborů - Vyčistit GPX soubory - Clean gpx file
+#Vyčistit GPX soubory - Clean gpx file
 vstupni_soubor = '(delete even with brackets and add input file)'
 vystupni_soubor = '(delete even with brackets and add output file)'
 
