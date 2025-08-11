@@ -1,3 +1,4 @@
+#Sloučit GPX soubory - Merge GPX files
 import (delete even with brackets and add name folder containing GPX files)
 import gpxpy
 import gpxpy.gpx
